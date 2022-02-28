@@ -1,0 +1,2 @@
+# SyntheticDataset
+Synthetic data is data that you can create at any scale, whenever and wherever you need it. Crucially, synthetic data mirrors the balance and composition of real data, making it ideal for fueling machine learning models. What makes synthetic data special is that data scientists, developers and engineers are in complete control. I discussed the advantages of synthetic data and demonstrated how to generate systhetic data in Python. You are welcome to provide your comments and subscribe to my YouTube channel. https://www.youtube.com/watch?v=uG_YMEcyaA8
